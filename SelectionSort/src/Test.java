@@ -17,6 +17,7 @@ public class Test {
         list.add("asd4");
         list.add("asd5");
 	list.add("asd666");
+	list.add("asdsadadsad");
 //        ListIterator<String> iterator = list.listIterator();
 //        while (iterator.hasNext()){
 //            int i = iterator.nextIndex();
